@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+body    {font-family: sans-serif; margin: 50px; background-color:aliceblue; color: #333333;}
+h1      {font-size: 25px}
+h2      {font-size: 20px}
+h3      {font-size: 17px}
+p       {font-size: 15px}
+img.banner   {width: 20%; height: 20%; margin-top: 50px;}
+img.lp      {width: 40%; height: 40%; margin-top: 50px;}
+div.container   {display: flex; justify-content: center;}
